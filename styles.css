@@ -159,6 +159,10 @@ h3 {
   font-size: 0.875rem;
 }
 
+.nav .btn-primary {
+  color: #000;
+}
+
 /* Hero */
 .hero {
   padding: 140px 0 80px;
